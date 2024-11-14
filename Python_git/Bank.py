@@ -69,7 +69,7 @@ def login():
 
 def menu():
     while True:
-        print("===== Bank Menu =====\n")
+        print("=====  Menu =====\n")
         print("1. Create account")
         print("2. Login")
         print("3. Exit")
